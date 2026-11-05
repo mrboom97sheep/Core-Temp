@@ -219,4 +219,4 @@ Core Temp is offered as a full free version, including all features and updates.
 Don't wait any longer! Start monitoring your CPU temperature with Core Temp today for a healthier and more efficient computer experience!
 
 ---
-**Last updated:** 2026-11-05 18:35:05 UTC
+**Last updated:** 2026-11-05 23:57:57 UTC
